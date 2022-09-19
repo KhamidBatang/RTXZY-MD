@@ -3,29 +3,29 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6282xxxxxx']  // isi jika perlu
-global.mods = ['6282xxxxxx']   // isi jika perlu
-global.prems = ['6282xxxxxx']  // isi jika perlu
+global.owner = ['6281947707409']  // isi jika perlu
+global.mods = ['6281947707409']   // isi jika perlu
+global.prems = ['6281947707409']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
 global.nameowner = '⫹⫺ OWNER' // isi nama kalian bebas
-global.numberowner = '6282xxxxxx' // isi nomor kalian dengan awalan seperti di contoh 
-global.dana = '6282xxxxxx' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6282xxxxxx' // isi dengan nomor pulsa hp kalian
-global.gopay = '6282xxxxxx'
+global.numberowner = '6281947707409' // isi nomor kalian dengan awalan seperti di contoh 
+global.dana = '6281947707409' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '6281947707409' // isi dengan nomor pulsa hp kalian
+global.gopay = ''
 
 //Name Bot & Grouplink//
-global.namebot = 'R-txzyMd'
-global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'REX-MD'
+global.gc = 'https://chat.whatsapp.com/DojCFswvX2nGMtK2vCrjOz'
+global.web = '' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 
 //Tanpilan wm Bot //
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© R-TXZY-MD'
+global.wm = '© REX-MD'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
+global.wm2 = '⫹⫺ REX-MD'
+global.wm3 = '© REX-MD'
 global.wm4 = '© 2021/2022'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -36,7 +36,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.author = 'Bot WhatsApp\nREX-MD'
 
 //Apikey Setting//
 global.APIs = { // API Prefix
